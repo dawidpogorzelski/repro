@@ -7,3 +7,4 @@ override.tf
 .DS_Store
 .vscode
 **.log
+*.tfplan
